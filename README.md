@@ -1,4 +1,4 @@
-# IndoorClimateControl
+# [🔨WIP🔨] IndoorClimateControl
 
 ## Description
 **IndoorClimateControl** is a project initially designed for thermal and hygrostatic regulation in semi-closed environments (meaning the exchange with the outside is controlled). The system is intended to be flexible, modular, and resilient. It uses a set of modules, virtually separated into input, output, and compute categories, each interconnected following a nodal design. The target platforms are ESP32, ESP8266, and Arduino (ATMega).
